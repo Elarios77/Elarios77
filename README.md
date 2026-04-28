@@ -1,8 +1,8 @@
 ## Hi there, I'm Lazaros
 
 ## 🎓 About Me
-I am a 4th-year student in Applied Informatics at the University of Macedonia.  
-I am particularly interested in Android mobile development and the field of Artificial Intelligence.
+4th-year student in Applied Informatics at the University of Macedonia.  
+Particularly interested in Android mobile development and the field of Artificial Intelligence.
 
 ## 💼 Experience
 I have been working as a Junior Android Developer for the past 4 months.
