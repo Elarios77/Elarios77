@@ -5,7 +5,7 @@
 Particularly interested in Android mobile development and the field of Artificial Intelligence.
 
 ## 💼 Experience
-I have been working as a Junior Android Developer for the past 5 months.
+I have been working as a Junior Android Developer for the past 6 months.
 
 ## 🚀 Current Work
 I am currently developing my Bachelor Thesis, which focuses on career path modeling using graph structures (nodes and edges), incorporating data analysis and modern Android development practices.
